@@ -20,7 +20,7 @@ Coastal wetlands act as nursery habitats for several commercially and recreation
 
 ## Include chunks of code
 
-These documents can include code and the output of whatever functions may be run
+These documents can include code and the output of whatever functions may be run:
 ```{r cars}
 
 summary(cars)
@@ -35,6 +35,8 @@ plot(pressure)
 ```
 
 ## Include nicely formatted formulas
+
+You can include formulas too:
 $$
 E = mc^2
 $$
