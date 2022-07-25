@@ -34,6 +34,11 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
+## Include nicely formatted formulas
+$$
+E = mc^2
+$$
+
 ## Including links to other material
 
 It is also possible to include clickable links to external material, for example [Taylor et al., 2018](https://doi.org/10.1016/j.ecolind.2017.08.044) provide an established framework for linking the productivity of coastal wetlands (e.g., mangroves, saltmarsh) with biomass of exploited species via resource provisioning
