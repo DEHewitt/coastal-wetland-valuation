@@ -5,7 +5,7 @@ knit: (function(input_file, encoding) {
   rmarkdown::render(input_file,
  encoding=encoding,
  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
-author: "Daniel Hewitt"
+author: "Daniel Hewitt, Matt Taylor, Rod Connolly"
 date: "25/07/2022"
 output: html_document
 ---
@@ -14,13 +14,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Introduction
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Coastal wetlands act as nursery habitats for several commercially and recreationally exploited species of fish and crustaceans...
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Include chunks of code
 
+These documents can include code and the output of whatever functions may be run
 ```{r cars}
+
 summary(cars)
 ```
 
@@ -28,8 +30,10 @@ summary(cars)
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
+```{r pressure, echo = FALSE}
 plot(pressure)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Including links to other material
+
+It is also possible to include clickable links to external material, for example [Taylor et al., 2018](https://doi.org/10.1016/j.ecolind.2017.08.044) provide an established framework for linking the productivity of coastal wetlands (e.g., mangroves, saltmarsh) with biomass of exploited species via resource provisioning
