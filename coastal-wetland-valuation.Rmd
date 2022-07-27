@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction
 
-Coastal wetlands act as nursery habitats for several commercially and recreationally exploited species of fish and crustaceans...
+Coastal wetlands act as nursery habitats for several commercially and recreationally exploited species of fish and crustaceans... (that table of contents on the side is clickable too)
 
 ## Include chunks of code
 
@@ -41,13 +41,10 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
-## Include nicely formatted formulas
+## Include links to external material and nicely formatted formulas
 
-You can include formulas too:
+[Taylor et al., 2018](https://doi.org/10.1016/j.ecolind.2017.08.044) provide an established framework to estimate the value of coastal wetlands (e.g., mangroves, saltmarsh) on the basis of their contribution to the diet of exploited species via the following formula: 
 $$
-E = mc^2
+GVP_{s,p} = C_{s,p}\cdot H_s\cdot M_s\cdot P_s
 $$
-
-## Including links to other material
-
-It is also possible to include clickable links to external material, for example [Taylor et al., 2018](https://doi.org/10.1016/j.ecolind.2017.08.044) provide an established framework for linking the productivity of coastal wetlands (e.g., mangroves, saltmarsh) with biomass of exploited species via resource provisioning
+where *GVP<sub>s, p</sub>* is the gross value of production (AUD y<sup>-1</sup>) of species *s* derived from primary producer *p*, *C<sub>s, p</sub>* is the proportional contribution of primary producer *p* for species *s* derived from stable isotope measurements and associated modelling, *H<sub>s</sub>* is the annual harvest of species *s* (kg y<sup>-1</sup>), *M<sub>s</sub>* is the market value for species *s* (AUD kg<sup>-1</sup>), and *P<sub>s</sub>* is the spatial partitioning coefficient for species *s* (see [Taylor et al., 2018](https://doi.org/10.1016/j.ecolind.2017.08.044) for further details).
