@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction
 
-Coastal wetlands act as nursery habitats for several commercially and recreationally exploited species of fish and crustaceans...
+Coastal wetlands act as nursery habitats for several commercially and recreationally exploited species of fish and crustaceans... (that table of contents on the left is clickable too)
 
 ## Include chunks of code
 
