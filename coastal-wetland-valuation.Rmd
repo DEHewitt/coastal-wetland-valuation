@@ -15,6 +15,9 @@ output:
     code_folding: show
 editor_options: 
   chunk_output_type: console
+bibliography: test_endnote_export.bib
+link-citations: true
+csl: trinity-college-dublin-zoology-botany-environmental-sciences-harvard.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -23,7 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction
 
-Coastal wetlands act as nursery habitats for several commercially and recreationally exploited species of fish and crustaceans... (that table of contents on the left is clickable too)
+Coastal wetlands act as nursery habitats for several commercially and recreationally exploited species of fish and crustaceans... (that table of contents on the left is clickable too) [see @RN95]
 
 ## Include chunks of code
 
@@ -49,3 +52,5 @@ $$
 GVP_{s,p} = C_{s,p}\cdot H_s\cdot M_s\cdot P_s
 $$
 where *GVP<sub>s, p</sub>* is the gross value of production (AUD y<sup>-1</sup>) of species *s* derived from primary producer *p*, *C<sub>s, p</sub>* is the proportional contribution of primary producer *p* for species *s* derived from stable isotope measurements and associated modelling, *H<sub>s</sub>* is the annual harvest of species *s* (kg y<sup>-1</sup>), *M<sub>s</sub>* is the market value for species *s* (AUD kg<sup>-1</sup>), and *P<sub>s</sub>* is the spatial partitioning coefficient for species *s* (see [Taylor et al., 2018](https://doi.org/10.1016/j.ecolind.2017.08.044) for further details).
+
+## References
