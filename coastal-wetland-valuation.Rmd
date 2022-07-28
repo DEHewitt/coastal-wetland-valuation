@@ -17,7 +17,7 @@ editor_options:
   chunk_output_type: console
 bibliography: test_endnote_export.bib
 link-citations: true
-csl: trinity-college-dublin-zoology-botany-environmental-sciences-harvard.csl
+csl: cite-them-right-12th-edition-harvard.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction
 
-Coastal wetlands act as nursery habitats for several commercially and recreationally exploited species of fish and crustaceans... (that table of contents on the left is clickable too) [see @RN95]
+Coastal wetlands act as nursery habitats for several commercially and recreationally exploited species of fish and crustaceans... (that table of contents on the left is clickable too)
 
 ## Include chunks of code
 
@@ -46,11 +46,11 @@ plot(pressure)
 
 ## Include links to external material and nicely formatted formulas
 
-[Taylor et al., 2018](https://doi.org/10.1016/j.ecolind.2017.08.044) provide an established framework to estimate the value of coastal wetlands (e.g., mangroves, saltmarsh) on the basis of their contribution to the diet of exploited species via the following formula: 
+@RN1014 provide an established framework to estimate the value of coastal wetlands (e.g., mangroves, saltmarsh) on the basis of their contribution to the diet of exploited species via the following formula: 
 
 $$
 GVP_{s,p} = C_{s,p}\cdot H_s\cdot M_s\cdot P_s
 $$
-where *GVP<sub>s, p</sub>* is the gross value of production (AUD y<sup>-1</sup>) of species *s* derived from primary producer *p*, *C<sub>s, p</sub>* is the proportional contribution of primary producer *p* for species *s* derived from stable isotope measurements and associated modelling, *H<sub>s</sub>* is the annual harvest of species *s* (kg y<sup>-1</sup>), *M<sub>s</sub>* is the market value for species *s* (AUD kg<sup>-1</sup>), and *P<sub>s</sub>* is the spatial partitioning coefficient for species *s* (see [Taylor et al., 2018](https://doi.org/10.1016/j.ecolind.2017.08.044) for further details).
+where *GVP<sub>s, p</sub>* is the gross value of production (AUD y<sup>-1</sup>) of species *s* derived from primary producer *p*, *C<sub>s, p</sub>* is the proportional contribution of primary producer *p* for species *s* derived from stable isotope measurements and associated modelling, *H<sub>s</sub>* is the annual harvest of species *s* (kg y<sup>-1</sup>), *M<sub>s</sub>* is the market value for species *s* (AUD kg<sup>-1</sup>), and *P<sub>s</sub>* is the spatial partitioning coefficient for species *s* (see @RN1014 for further details).
 
 ## References
