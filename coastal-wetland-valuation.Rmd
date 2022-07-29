@@ -24,11 +24,11 @@ csl: custom-referencing.csl
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Introduction
+# Introduction
 
 Coastal wetlands act as nursery habitats for several commercially and recreationally exploited species of fish and crustaceans... (that table of contents on the left is clickable too)
 
-## Include chunks of code
+# Include chunks of code
 
 These documents can include code and the output of whatever functions may be run:
 ```{r cars}
@@ -36,7 +36,7 @@ These documents can include code and the output of whatever functions may be run
 summary(cars)
 ```
 
-## Including Plots
+# Including Plots
 
 You can also embed plots, for example:
 
@@ -44,7 +44,7 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
-## Fisheries enhancement via resource provisioning
+# Fisheries enhancement via resource provisioning
 
 @RN1014 provide an established framework to estimate the value of coastal wetlands (e.g., mangroves, saltmarsh) on the basis of their contribution to the diet of exploited species via the following formula: 
 
@@ -56,7 +56,9 @@ GVP_{s,p} = C_{s,p}\cdot H_s\cdot M_s\cdot P_s
 
 where *GVP<sub>s, p</sub>* is the gross value of production (AUD y<sup>-1</sup>) of species *s* derived from primary producer *p*, *C<sub>s, p</sub>* is the proportional contribution of primary producer *p* for species *s* derived from stable isotope measurements and associated modelling, *H<sub>s</sub>* is the annual harvest of species *s* (kg y<sup>-1</sup>), *M<sub>s</sub>* is the market value for species *s* (AUD kg<sup>-1</sup>), and *P<sub>s</sub>* is the spatial partitioning coefficient for species *s* (see @RN1014 for further details).
 
-## Fisheries enhancement via nursery services
+# Fisheries enhancement via nursery services
+
+## Estimating species abundance 
 
 Enhancement (*E*) of the exploited species (*s*) by habitat (*h*) is calculated for each species using the following equation:
 
@@ -67,6 +69,8 @@ E_{s,e} = (P_{s, h} - P_{s,u})
 \end{equation}
 
 where *P<sub>s, h</sub>* is the abundance of juveniles (estimated to be 0.5 years old) of species *s* in habitat *h* (individuals ha<sup>-1</sup>), and *P<sub>s, u</sub>* is the abundance of species *s* in unvegetated habitats *u* [@RN1016; @RN1019].
+
+## Estimating species biomass
 
 Total average annual biomass production of each exploited species *s* supported by habitat *h* (kg ha<sup>-1</sup> y<sup>-1</sup>) is estimated using the approach developed by @RN1018 and extended by @RN1019. This approach incorporates species-specific natural mortality (*M*), but not fishing mortality, via the following equation:
 
@@ -86,4 +90,4 @@ B_i = E_{s,e}\cdot e^{-M\cdot(i-0.5)}
 
 where *E<sub>s,e</sub>* is taken from Equation \@ref(eq:enhance). For each age class *i*, the length of an average individual (total length [TL] for teleosts, carapace length [CL] for crustaceans) was calculated using the Lorenzen (2000) growth equation and subsequently converted to weight (biomass, kg) using length-weight relationships. The total annual biomass enhancement (kg ha<sup>-1</sup>) of species *s* was then calculated by summing the incremental increase in biomass for an average individual in each year class *i* by the number/density (ha<sup>-1</sup>) of species *s* (*B<sub>i</sub>*) in each age class.
 
-## References
+# References

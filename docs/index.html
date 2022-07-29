@@ -317,6 +317,8 @@ GVP_{s,p} = C_{s,p}\cdot H_s\cdot M_s\cdot P_s
 </div>
 <div id="fisheries-enhancement-via-nursery-services" class="section level1" number="5">
 <h1><span class="header-section-number">5</span> Fisheries enhancement via nursery services</h1>
+<div id="estimating-species-abundance" class="section level2" number="5.1">
+<h2><span class="header-section-number">5.1</span> Estimating species abundance</h2>
 <p>Enhancement (<em>E</em>) of the exploited species (<em>s</em>) by habitat (<em>h</em>) is calculated for each species using the following equation:</p>
 <p><span class="math display" id="eq:enhance">\[\begin{equation}
 E_{s,e} = (P_{s, h} - P_{s,u})
@@ -324,6 +326,9 @@ E_{s,e} = (P_{s, h} - P_{s,u})
 \tag{5.1}
 \end{equation}\]</span></p>
 <p>where <em>P<sub>s, h</sub></em> is the abundance of juveniles (estimated to be 0.5 years old) of species <em>s</em> in habitat <em>h</em> (individuals ha<sup>-1</sup>), and <em>P<sub>s, u</sub></em> is the abundance of species <em>s</em> in unvegetated habitats <em>u</em> <span class="citation">(<a href="#ref-RN1019" role="doc-biblioref">Zu Ermgassen <em>et al.</em>, 2016</a>; <a href="#ref-RN1016" role="doc-biblioref">Jänes <em>et al.</em>, 2020</a>)</span>.</p>
+</div>
+<div id="estimating-species-biomass" class="section level2" number="5.2">
+<h2><span class="header-section-number">5.2</span> Estimating species biomass</h2>
 <p>Total average annual biomass production of each exploited species <em>s</em> supported by habitat <em>h</em> (kg ha<sup>-1</sup> y<sup>-1</sup>) is estimated using the approach developed by <span class="citation"><a href="#ref-RN1018" role="doc-biblioref">Peterson <em>et al.</em></a> (<a href="#ref-RN1018" role="doc-biblioref">2003</a>)</span> and extended by <span class="citation"><a href="#ref-RN1019" role="doc-biblioref">Zu Ermgassen <em>et al.</em></a> (<a href="#ref-RN1019" role="doc-biblioref">2016</a>)</span>. This approach incorporates species-specific natural mortality (<em>M</em>), but not fishing mortality, via the following equation:</p>
 <p><span class="math display" id="eq:mortality">\[\begin{equation}
 y_{s,i} = e^{-Mi}
@@ -337,6 +342,7 @@ B_i = E_{s,e}\cdot e^{-M\cdot(i-0.5)}
 \tag{5.3}
 \end{equation}\]</span></p>
 <p>where <em>E<sub>s,e</sub></em> is taken from Equation <a href="#eq:enhance">(5.1)</a>. For each age class <em>i</em>, the length of an average individual (total length [TL] for teleosts, carapace length [CL] for crustaceans) was calculated using the Lorenzen (2000) growth equation and subsequently converted to weight (biomass, kg) using length-weight relationships. The total annual biomass enhancement (kg ha<sup>-1</sup>) of species <em>s</em> was then calculated by summing the incremental increase in biomass for an average individual in each year class <em>i</em> by the number/density (ha<sup>-1</sup>) of species <em>s</em> (<em>B<sub>i</sub></em>) in each age class.</p>
+</div>
 </div>
 <div id="references" class="section level1 unnumbered">
 <h1>References</h1>
