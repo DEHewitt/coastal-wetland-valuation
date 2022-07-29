@@ -26,23 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-Coastal wetlands act as nursery habitats for several commercially and recreationally exploited species of fish and crustaceans... (that table of contents on the left is clickable too)
-
-# Include chunks of code
-
-These documents can include code and the output of whatever functions may be run:
-```{r cars}
-
-summary(cars)
-```
-
-# Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
+Coastal wetlands act as nursery habitats for several commercially and recreationally exploited species of fish and crustaceans [@RN10; @RN54].
 
 # Fisheries enhancement via resource provisioning
 
@@ -55,6 +39,15 @@ GVP_{s,p} = C_{s,p}\cdot H_s\cdot M_s\cdot P_s
 \end{equation}
 
 where *GVP<sub>s, p</sub>* is the gross value of production (AUD y<sup>-1</sup>) of species *s* derived from primary producer *p*, *C<sub>s, p</sub>* is the proportional contribution of primary producer *p* for species *s* derived from stable isotope measurements and associated modelling, *H<sub>s</sub>* is the annual harvest of species *s* (kg y<sup>-1</sup>), *M<sub>s</sub>* is the market value for species *s* (AUD kg<sup>-1</sup>), and *P<sub>s</sub>* is the spatial partitioning coefficient for species *s* (see @RN1014 for further details).
+
+## Estimating economic value
+$$
+\sigma = \frac{\frac{O_{max}-O_{min}}{P_{GV}}}{6}
+$$
+
+$$
+\mu = \frac{O_{max}}{P_{GV}}-3\sigma
+$$
 
 # Fisheries enhancement via nursery services
 
@@ -89,5 +82,7 @@ B_i = E_{s,e}\cdot e^{-M\cdot(i-0.5)}
 \end{equation}
 
 where *E<sub>s,e</sub>* is taken from Equation \@ref(eq:enhance). For each age class *i*, the length of an average individual (total length [TL] for teleosts, carapace length [CL] for crustaceans) was calculated using the Lorenzen (2000) growth equation and subsequently converted to weight (biomass, kg) using length-weight relationships. The total annual biomass enhancement (kg ha<sup>-1</sup>) of species *s* was then calculated by summing the incremental increase in biomass for an average individual in each year class *i* by the number/density (ha<sup>-1</sup>) of species *s* (*B<sub>i</sub>*) in each age class.
+
+## Estimating economic value
 
 # References
