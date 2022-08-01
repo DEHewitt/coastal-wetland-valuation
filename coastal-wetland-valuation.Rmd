@@ -41,13 +41,20 @@ GVP_{s,p} = C_{s,p}\cdot H_s\cdot M_s\cdot P_s
 where *GVP<sub>s, p</sub>* is the gross value of production (AUD y<sup>-1</sup>) of species *s* derived from primary producer *p*, *C<sub>s, p</sub>* is the proportional contribution of primary producer *p* for species *s* derived from stable isotope measurements and associated modelling, *H<sub>s</sub>* is the annual harvest of species *s* (kg y<sup>-1</sup>), *M<sub>s</sub>* is the market value for species *s* (AUD kg<sup>-1</sup>), and *P<sub>s</sub>* is the spatial partitioning coefficient for species *s* (see @RN1014 for further details).
 
 ## Estimating economic value
-$$
-\sigma = \frac{\frac{O_{max}-O_{min}}{P_{GV}}}{6}
-$$
 
-$$
+Estimation of economic value is achieved by determining the gross value of production (GVP), based on market value at first-point-of-sale (FPS). GVP is then converted to total economic output (TOP) via an economic multiplier [*m*; derived from data presented in @RN1024]. The multiplier *m* is expressed using a normal distribution (i.e., *m* ~ $N[\mu, \sigma]$), wderived from the statewide-GVP for New South Wales (*P<sub>GV</sub>*; AUDm79.44), and the minimum (*O<sub>min</sub>*; AUDm436.13) and maximum (*O<sub>max</sub>*; AUDm501.24) estimate of total economic output from commercial fishing (icluding GVP, and the value of retail processingm etc.) reported in @RN1024, using the two following equations:
+
+\begin{equation}
+\sigma = \frac{\frac{O_{max}-O_{min}}{P_{GV}}}{6}
+
+(\#eq:sigma)
+\end{equation}
+
+\begin{equation}
 \mu = \frac{O_{max}}{P_{GV}}-3\sigma
-$$
+
+(\#eq:mu)
+\end{equation}
 
 # Fisheries enhancement via nursery services
 
@@ -81,7 +88,7 @@ B_i = E_{s,e}\cdot e^{-M\cdot(i-0.5)}
 (\#eq:class-enhance)
 \end{equation}
 
-where *E<sub>s,e</sub>* is taken from Equation \@ref(eq:enhance). For each age class *i*, the length of an average individual (total length [TL] for teleosts, carapace length [CL] for crustaceans) was calculated using the Lorenzen (2000) growth equation and subsequently converted to weight (biomass, kg) using length-weight relationships. The total annual biomass enhancement (kg ha<sup>-1</sup>) of species *s* was then calculated by summing the incremental increase in biomass for an average individual in each year class *i* by the number/density (ha<sup>-1</sup>) of species *s* (*B<sub>i</sub>*) in each age class.
+where *E<sub>s,e</sub>* is taken from Equation \@ref(eq:enhance). For each age class *i*, the length of an average individual (total length [TL] for teleosts, carapace length [CL] for crustaceans) was calculated using the @RN1025 growth equation and subsequently converted to weight (biomass, kg) using length-weight relationships. The total annual biomass enhancement (kg ha<sup>-1</sup>) of species *s* was then calculated by summing the incremental increase in biomass for an average individual in each year class *i* by the number/density (ha<sup>-1</sup>) of species *s* (*B<sub>i</sub>*) in each age class.
 
 ## Estimating economic value
 
