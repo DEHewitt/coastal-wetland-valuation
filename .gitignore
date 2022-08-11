@@ -44,3 +44,7 @@ vignettes/*.pdf
 
 # Word docs
 .docx
+
+# Infographic source images
+.png
+.svg
