@@ -1,0 +1,168 @@
+Sample,Site code,Site name,Species name,Common name,%C,%N,ugC,ugN,d13C,d15N,Type
+TML.6.1,FB,Fern Bay,Metapenaeus macleayi,School Prawn,,,,,-17.23,10.71,Consumer
+TML.6.4,FB,Fern Bay,Metapenaeus macleayi,School Prawn,,,,,-17.39,10.63,Consumer
+TML.6.3,FB,Fern Bay,Metapenaeus macleayi,School Prawn,,,,,-18.39,11.76,Consumer
+TML.6.2,FB,Fern Bay,Metapenaeus macleayi,School Prawn,,,,,-17.88,9.96,Consumer
+TML.6.6,FB,Fern Bay,Metapenaeus macleayi,School Prawn,,,,,-18.56,10.52,Consumer
+TMS.6.4,FB,Fern Bay,Metapenaeus macleayi,School Prawn,,,,,-18.83,11.08,Consumer
+TMS.6.5,FB,Fern Bay,Metapenaeus macleayi,School Prawn,,,,,-18.11,10.74,Consumer
+TMS.6.1,FB,Fern Bay,Metapenaeus macleayi,School Prawn,,,,,-15,10.31,Consumer
+TMS.6.2,FB,Fern Bay,Metapenaeus macleayi,School Prawn,,,,,-19.04,11.26,Consumer
+TMS.6.6,FB,Fern Bay,Metapenaeus macleayi,School Prawn,,,,,-18.79,11.11,Consumer
+TMS.6.3,FB,Fern Bay,Metapenaeus macleayi,School Prawn,,,,,-18.8,10.57,Consumer
+FB1.37.1,FB1,Fern Bay,,FBOM,1.3,0.1,333.2,22.8,-24.7,2.6,Source
+FB1.37.2,FB1,Fern Bay,,FBOM,0.8,0.1,146.1,10.1,-23.8,-4.6,Source
+FB1.37.3,FB1,Fern Bay,,FBOM,2.1,0.1,675.6,45.2,-24.1,4.9,Source
+FB1.8.1,FB1,Fern Bay,,Mangrove + others,43.7,2,3240.1,148.7,-28.4,4.2,Source
+FB1.8.2,FB1,Fern Bay,,Mangrove + others,43.3,2,2973,139.1,-28.3,4.8,Source
+FB1.8.3,FB1,Fern Bay,,Mangrove + others,40.5,1.9,2827.5,135.4,-28.5,3.8,Source
+FB1.30.1,FB1,Fern Bay,,Mangrove + others,14.5,1.5,990.5,103.9,-29.5,6.6,Source
+FB1.30.2,FB1,Fern Bay,,Mangrove + others,16.1,1.9,1099.7,128.3,-29.7,6.5,Source
+FB1.30.3,FB1,Fern Bay,,Mangrove + others,19.5,2.4,1324.5,162.9,-30,6.1,Source
+FB2.24.1.M,FB2,Fern Bay,Acanthopagrus australis,Yellowfin Bream,45.5,14.8,732.7,238.6,-17.4,13.7,Consumer
+FB2.24.2.M,FB2,Fern Bay,Acanthopagrus australis,Yellowfin Bream,45.8,14.6,628,200,-19.2,15.1,Consumer
+FB2.24.3.M,FB2,Fern Bay,Acanthopagrus australis,Yellowfin Bream,48,15.4,724.3,233,-18.7,13.3,Consumer
+FB2.24.4.M,FB2,Fern Bay,Acanthopagrus australis,Yellowfin Bream,45.8,14.5,691.1,219.5,-24.5,8.6,Consumer
+FB2.24.5.M,FB2,Fern Bay,Acanthopagrus australis,Yellowfin Bream,42.9,13.7,728.9,232.3,-24.4,13,Consumer
+FB2.24.6.M,FB2,Fern Bay,Acanthopagrus australis,Yellowfin Bream,51.2,16.3,762.5,243,-18.7,10.1,Consumer
+FB2.24.7.M,FB2,Fern Bay,Acanthopagrus australis,Yellowfin Bream,50,15.7,669.7,210.7,-18.7,10,Consumer
+FB2.24.7.M,FB2,Fern Bay,Acanthopagrus australis,Yellowfin Bream,49.8,15.7,886.8,280,-18.6,10.8,Consumer
+FB2.24.8.M,FB2,Fern Bay,Acanthopagrus australis,Yellowfin Bream,46.5,14.6,706.3,222.3,-18.3,10.6,Consumer
+FB2.24.9.M,FB2,Fern Bay,Acanthopagrus australis,Yellowfin Bream,47.5,15.1,827.2,262.5,-19.7,10.4,Consumer
+FB2.26.2.M,FB2,Fern Bay,Platycephalus fuscus,Dusky Flathead,49.1,16.4,918.1,305.8,-15.3,15,Consumer
+FB2.26.3.M,FB2,Fern Bay,Platycephalus fuscus,Dusky Flathead,50.8,16.2,867.9,276.6,-13.9,12.1,Consumer
+FB2.26.4.M,FB2,Fern Bay,Platycephalus fuscus,Dusky Flathead,58.7,18.7,938.6,298.5,-14.3,12.7,Consumer
+FB2.26.5.M,FB2,Fern Bay,Platycephalus fuscus,Dusky Flathead,48.5,15.5,848.1,270.5,-14.9,12.2,Consumer
+FB2.26.6.M,FB2,Fern Bay,Platycephalus fuscus,Dusky Flathead,52.7,17.1,817.2,265.8,-20.1,16.5,Consumer
+FB2.37.1,FB2,Fern Bay,,FBOM,2.6,0.2,649.5,43.4,-24.6,4.1,Source
+FB2.37.2,FB2,Fern Bay,,FBOM,1.4,0.1,312,21.3,-23.2,1.3,Source
+FB2.37.3,FB2,Fern Bay,,FBOM,1.8,0.1,436.4,33.6,-22.9,8.2,Source
+FB2.42.1.M,FB2,Fern Bay,Girella tricuspidata,Luderick,49,16,843.3,274.6,-23.6,9,Consumer
+FB2.42.2.M,FB2,Fern Bay,Girella tricuspidata,Luderick,46.3,14.5,643.4,202.1,-16.7,12.1,Consumer
+FB2.42.3.M,FB2,Fern Bay,Girella tricuspidata,Luderick,48.9,15.4,792.7,250.2,-22.8,13.6,Consumer
+FB2.42.4.M,FB2,Fern Bay,Girella tricuspidata,Luderick,53.5,17.2,883.2,283.7,-21.2,13.7,Consumer
+FB2.42.5.M,FB2,Fern Bay,Girella tricuspidata,Luderick,47,14.8,658,207.2,-21.3,12.9,Consumer
+FB2.42.6.M,FB2,Fern Bay,Girella tricuspidata,Luderick,49.5,15.9,726.9,233.5,-21.4,9.2,Consumer
+FB2.8.1,FB2,Fern Bay,,Mangrove + others,44.3,1.8,3187.8,128.5,-27.3,6.7,Source
+FB2.8.2,FB2,Fern Bay,,Mangrove + others,43.8,1.7,3029.3,117.5,-28.3,6,Source
+FB2.8.3,FB2,Fern Bay,,Mangrove + others,43.4,1.9,2961.8,126.5,-28.6,8,Source
+FB2.30.1,FB2,Fern Bay,,Mangrove + others,12.5,1.2,926.7,86.4,-18.9,7.9,Source
+FB2.30.2,FB2,Fern Bay,,Mangrove + others,15.7,1.7,1209.8,130.3,-28.7,7.4,Source
+FB2.30.3,FB2,Fern Bay,,Mangrove + others,7.2,0.7,533.5,49.6,-27.3,6.8,Source
+FB2.43.1.M,FB2,Fern Bay,Mugil cephalus,Sea Mullet,52,13.3,894.9,228.3,-22.3,15.4,Consumer
+FB2.43.10.M,FB2,Fern Bay,Mugil cephalus,Sea Mullet,48.5,15.3,873.3,276,-23,15.5,Consumer
+FB2.43.2.M,FB2,Fern Bay,Mugil cephalus,Sea Mullet,51.8,14.9,776.3,223.9,-20.9,13.8,Consumer
+FB2.43.3.M,FB2,Fern Bay,Mugil cephalus,Sea Mullet,53.2,14.8,866.8,241.8,-18,13.6,Consumer
+FB2.43.4.M,FB2,Fern Bay,Mugil cephalus,Sea Mullet,54.2,16.9,937.5,291.9,-16.9,12.4,Consumer
+FB2.43.5.M,FB2,Fern Bay,Mugil cephalus,Sea Mullet,48.8,14.2,892.3,260,-17,9.2,Consumer
+FB2.43.6.M,FB2,Fern Bay,Mugil cephalus,Sea Mullet,51.1,14.4,633.3,178.2,-15.7,10.3,Consumer
+FB2.43.7.M,FB2,Fern Bay,Mugil cephalus,Sea Mullet,47.2,14.1,707.5,211.5,-16.8,9.3,Consumer
+FB2.43.8.M,FB2,Fern Bay,Mugil cephalus,Sea Mullet,47.5,14.9,730.8,229.4,-15.7,11.6,Consumer
+FB2.43.9.M,FB2,Fern Bay,Mugil cephalus,Sea Mullet,50.4,14.4,826.7,235.8,-15.6,9.2,Consumer
+FB3.32.1,FB3,Fern Bay,,Mangrove + others,30.7,1.5,2339.5,116.5,-25.9,3.6,Source
+FB3.32.2,FB3,Fern Bay,,Mangrove + others,31.2,2.4,2320.7,180.9,-27.1,2.6,Source
+FB3.32.3,FB3,Fern Bay,,Mangrove + others,32.7,2.2,2278.7,149.7,-25.3,3.2,Source
+FB3.35.1,FB3,Fern Bay,,Mangrove + others,34.4,1.2,2634.9,95.6,-27.7,2.3,Source
+FB3.35.2,FB3,Fern Bay,,Mangrove + others,34.7,1,2541.9,74.4,-27.5,2.3,Source
+FB3.35.3,FB3,Fern Bay,,Mangrove + others,32.9,0.9,2475,70.1,-27.9,1.5,Source
+FB3.37.1,FB3,Fern Bay,,FBOM,1.4,0.1,411.8,32.7,-22.4,-6,Source
+FB3.37.2,FB3,Fern Bay,,FBOM,0.8,0.1,181.2,12.2,-22.2,5.4,Source
+FB3.37.3,FB3,Fern Bay,,FBOM,3,0.2,987.1,68.7,-23.7,2.8,Source
+FB3.8.1,FB3,Fern Bay,,Mangrove + others,43,1.4,3327.8,111.9,-29.3,3.9,Source
+FB3.8.2,FB3,Fern Bay,,Mangrove + others,43.9,1.3,3202,92.7,-29.4,3.8,Source
+FB3.8.3,FB3,Fern Bay,,Mangrove + others,43,1.6,3063.2,116,-29.1,4.1,Source
+FB3.30.1,FB3,Fern Bay,,Mangrove + others,12.5,1.1,879.3,79.9,-21.7,7.7,Source
+FB3.30.2,FB3,Fern Bay,,Mangrove + others,15.1,1.5,1067.5,107.2,-27.3,7.1,Source
+FB3.30.3,FB3,Fern Bay,,Mangrove + others,11.1,1.1,773.4,80,-27.3,7.1,Source
+FB3.34.1,FB3,Fern Bay,,S. virginicus,39.7,1,2734,66.9,-14.7,0.6,Source
+FB3.34.2,FB3,Fern Bay,,S. virginicus,40.3,0.9,2845.8,62.5,-14.3,0.4,Source
+FB3.34.3,FB3,Fern Bay,,S. virginicus,41.5,0.9,3067.1,64.8,-14.4,0.5,Source
+FB3.21.1,FB3,Fern Bay,,Zooplankton,28.1,4.7,1076.9,181.8,-21.8,5,Consumer
+FB3.21.2,FB3,Fern Bay,,Zooplankton,15.1,2.4,477.7,77.3,-22.9,7,Consumer
+FB3.21.3,FB3,Fern Bay,,Zooplankton,29.6,5,1428.1,242,-21.5,5.7,Consumer
+FB3.22.1,FB3,Fern Bay,,Zooplankton,21.2,3.1,430.8,63,-22.5,6.2,Consumer
+FB3.22.2,FB3,Fern Bay,,Zooplankton,11.1,1.6,280.7,41.3,-22.4,7,Consumer
+FB3.22.3,FB3,Fern Bay,,Zooplankton,33.4,6.4,1562.1,299.7,-20.6,5.3,Consumer
+H.24.1.M,H,Hexham,Acanthopagrus australis,Yellowfin Bream,45,14.1,598.8,187.2,-17.6,13.1,Consumer
+H.24.2.M,H,Hexham,Acanthopagrus australis,Yellowfin Bream,46.8,14.8,622.8,196.8,-18.4,13.4,Consumer
+H.24.3.M,H,Hexham,Acanthopagrus australis,Yellowfin Bream,39.8,12.6,580.8,183.9,-18.6,14.1,Consumer
+H.24.4.M,H,Hexham,Acanthopagrus australis,Yellowfin Bream,47.1,15.1,608.1,194.4,-22.6,12.5,Consumer
+H.24.5.M,H,Hexham,Acanthopagrus australis,Yellowfin Bream,47,15,611.6,194.5,-17.3,13.2,Consumer
+H.24.6.M,H,Hexham,Acanthopagrus australis,Yellowfin Bream,49.4,15,661.8,201.3,-17.5,14,Consumer
+H.64.1,H,Hexham,Portunus armatus,Blue Swimmer Crab,42.7,13.5,580.6,184.2,-17.2,12,Consumer
+H.64.2,H,Hexham,Portunus armatus,Blue Swimmer Crab,43.5,13.6,570.3,178.8,-17.7,10.7,Consumer
+H.64.3,H,Hexham,Portunus armatus,Blue Swimmer Crab,46.4,14.7,704.7,223.7,-17.3,12.8,Consumer
+H.26.1.M,H,Hexham,Platycephalus fuscus,Dusky Flathead,49.5,15.6,822.2,259,-16.3,13.4,Consumer
+H.26.2.M,H,Hexham,Platycephalus fuscus,Dusky Flathead,49.2,15.5,768.1,241.7,-18.9,14.1,Consumer
+H.26.3.M,H,Hexham,Platycephalus fuscus,Dusky Flathead,47.6,15.1,770.7,244.6,-17.6,13.7,Consumer
+H.26.4.M,H,Hexham,Platycephalus fuscus,Dusky Flathead,47.1,15,711.2,226.9,-19.1,14.3,Consumer
+H.26.5.M,H,Hexham,Platycephalus fuscus,Dusky Flathead,53.7,17.2,955.1,306.8,-17.8,14.1,Consumer
+H.68.1.M,H,Hexham,Argyrosomas japonicus,Mulloway,47.6,15.3,918.1,294.4,-18.4,13.4,Consumer
+H.68.10.M,H,Hexham,Argyrosomas japonicus,Mulloway,47.4,15.4,805.1,261.1,-17.8,13.8,Consumer
+H.68.11.M,H,Hexham,Argyrosomas japonicus,Mulloway,48.7,15.5,706,224.9,-17.7,13.7,Consumer
+H.68.12.M,H,Hexham,Argyrosomas japonicus,Mulloway,46.4,14.9,737.5,236.8,-17.7,13.4,Consumer
+H.68.2.M,H,Hexham,Argyrosomas japonicus,Mulloway,47.4,15.2,877.1,280.8,-18.3,13.2,Consumer
+H.68.3.M,H,Hexham,Argyrosomas japonicus,Mulloway,46.2,14.9,832.2,267.7,-17.9,13.2,Consumer
+H.68.4.M,H,Hexham,Argyrosomas japonicus,Mulloway,46.3,14.8,726.6,233.1,-17.6,13.5,Consumer
+H.68.5.M,H,Hexham,Argyrosomas japonicus,Mulloway,48.1,15.3,807.3,257.5,-18.1,13,Consumer
+H.68.6.M,H,Hexham,Argyrosomas japonicus,Mulloway,53.7,17.3,745.9,239.9,-18.6,13.5,Consumer
+H.68.7.M,H,Hexham,Argyrosomas japonicus,Mulloway,46.5,14.8,721.3,228.8,-17.8,13.5,Consumer
+H.68.8.M,H,Hexham,Argyrosomas japonicus,Mulloway,47.1,15.1,743.6,237.9,-17.9,13.3,Consumer
+H.68.9.M,H,Hexham,Argyrosomas japonicus,Mulloway,47.2,15.1,784.1,250.8,-18.1,13.5,Consumer
+HR.2.1.38.1,HR,Hunter River,Scylla serrata,Giant Mud Crab,44.2,13.7,782.4,241.8,-18.8,12.5,Consumer
+HR.2.1.38.2,HR,Hunter River,Scylla serrata,Giant Mud Crab,46.7,13.5,873,251.9,-20,10.6,Consumer
+HR1.1.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,47,13,653.9,180.7,-18,11.6,Consumer
+HR1.10.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,48.1,14.3,707.1,209.8,-18.2,12.5,Consumer
+HR1.11.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,45.3,13.5,692.5,206,-19.5,11.5,Consumer
+HR1.11.38.2,HR1,Hunter River,Scylla serrata,Giant Mud Crab,46.9,13.9,778.1,231.5,-19.3,11.7,Consumer
+HR1.12.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,47.9,11.9,809.8,201.7,-19.6,11.4,Consumer
+HR1.12.38.2,HR1,Hunter River,Scylla serrata,Giant Mud Crab,48.5,14.4,887.8,263.6,-18.5,12,Consumer
+HR1.13.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,49.2,14.4,801.2,234.7,-19.6,11.6,Consumer
+HR1.2.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,41.8,12.7,618.4,187.7,-17.8,11.3,Consumer
+HR1.2.38.2,HR1,Hunter River,Scylla serrata,Giant Mud Crab,47,13.5,638.8,184,-18,11.6,Consumer
+HR1.2.38.3,HR1,Hunter River,Scylla serrata,Giant Mud Crab,43.2,12.4,570.7,164,-17.3,10.6,Consumer
+HR1.3.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,47.1,13.7,673,196.2,-19.8,12.4,Consumer
+HR1.3.38.2,HR1,Hunter River,Scylla serrata,Giant Mud Crab,46.3,13.5,782,228.4,-17.9,12.3,Consumer
+HR1.4.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,42.5,12.2,565.2,161.7,-16.2,10.7,Consumer
+HR1.4.38.2,HR1,Hunter River,Scylla serrata,Giant Mud Crab,48.7,14.6,823.3,246.9,-17.7,12.5,Consumer
+HR1.4.38.3,HR1,Hunter River,Scylla serrata,Giant Mud Crab,47.2,12.8,897.4,244.1,-20.3,12.9,Consumer
+HR1.4.38.4,HR1,Hunter River,Scylla serrata,Giant Mud Crab,49.4,13.8,795.8,222.9,-17.6,11.6,Consumer
+HR1.5.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,40.9,11.7,523.5,149.5,-20.9,9.9,Consumer
+HR1.5.38.2,HR1,Hunter River,Scylla serrata,Giant Mud Crab,44,12.9,708.2,208.3,-20.3,10.7,Consumer
+HR1.6.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,46.3,12.6,745.2,203.5,-20.1,11.6,Consumer
+HR1.7.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,43.9,13.1,715.3,212.9,-20,11.2,Consumer
+HR1.7.38.2,HR1,Hunter River,Scylla serrata,Giant Mud Crab,47.5,14.2,712.3,213.5,-20.9,12.1,Consumer
+HR1.8.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,41.6,12,511.8,147.4,-18.5,11,Consumer
+HR1.9.38.1,HR1,Hunter River,Scylla serrata,Giant Mud Crab,48,13.9,786.5,228.5,-19.6,11.2,Consumer
+HR1.9.38.2,HR1,Hunter River,Scylla serrata,Giant Mud Crab,46.2,12.9,642.6,178.6,-19.2,11.4,Consumer
+HR2.1.38.1,HR2,Hunter River,Scylla serrata,Giant Mud Crab,48.8,14.5,668.7,199.1,-18.2,10.7,Consumer
+HR2.2.38.1,HR2,Hunter River,Scylla serrata,Giant Mud Crab,45.9,13.2,757.7,217.4,-16.1,11,Consumer
+HR2.3.38.1,HR2,Hunter River,Scylla serrata,Giant Mud Crab,49.5,15.1,811,247.6,-17.6,10.8,Consumer
+HR2.4.38.1,HR2,Hunter River,Scylla serrata,Giant Mud Crab,48.5,14.6,955,287.5,-17.9,11.1,Consumer
+HR2.4.38.2,HR2,Hunter River,Scylla serrata,Giant Mud Crab,39.1,12,665,204.3,-15.6,10.3,Consumer
+HR2.4.38.3,HR2,Hunter River,Scylla serrata,Giant Mud Crab,47.3,14.2,623.9,187.7,-18.4,11,Consumer
+HR2.6.38.1,HR2,Hunter River,Scylla serrata,Giant Mud Crab,53.1,16.3,668.8,205.2,-19,11.5,Consumer
+HR2.6.38.2,HR2,Hunter River,Scylla serrata,Giant Mud Crab,50.3,14.4,724.3,207.3,-18.6,11,Consumer
+HR2.7.38.1,HR2,Hunter River,Scylla serrata,Giant Mud Crab,43.8,13.1,595.1,177.7,-18.9,10,Consumer
+HR2.7.38.1,HR2,Hunter River,Scylla serrata,Giant Mud Crab,46.2,14.2,789.9,242.9,-17.5,10.9,Consumer
+HR2.8.38.1,HR2,Hunter River,Scylla serrata,Giant Mud Crab,47.9,13.9,871.7,253.6,-20.3,11.9,Consumer
+HR3.24.1.M,HR3,Hunter River,Acanthopagrus australis,Yellowfin Bream,58,17.8,888,272.5,-20.8,13.9,Consumer
+HR3.24.10.M,HR3,Hunter River,Acanthopagrus australis,Yellowfin Bream,65.8,21.4,1013.1,330,-21.9,13.9,Consumer
+HR3.24.2.M,HR3,Hunter River,Acanthopagrus australis,Yellowfin Bream,48.1,14.9,793.5,246.5,-20,10.9,Consumer
+HR3.24.3.M,HR3,Hunter River,Acanthopagrus australis,Yellowfin Bream,48,15.4,633.5,203.7,-22.4,15.5,Consumer
+HR3.24.4.M,HR3,Hunter River,Acanthopagrus australis,Yellowfin Bream,49.9,16,807.6,259.4,-21.2,14.5,Consumer
+HR3.24.5.M,HR3,Hunter River,Acanthopagrus australis,Yellowfin Bream,48.8,15.5,663.6,211.2,-21,14.4,Consumer
+HR3.24.6.M,HR3,Hunter River,Acanthopagrus australis,Yellowfin Bream,45.3,14.7,680.2,220.4,-22.1,14.7,Consumer
+HR3.24.7.M,HR3,Hunter River,Acanthopagrus australis,Yellowfin Bream,44.5,14.4,627.5,203.5,-21.4,14.6,Consumer
+HR3.24.8.M,HR3,Hunter River,Acanthopagrus australis,Yellowfin Bream,47.1,15,597.9,190.3,-24.4,14.8,Consumer
+HR3.24.9.M,HR3,Hunter River,Acanthopagrus australis,Yellowfin Bream,49.9,15.8,863.1,272.9,-21.1,13,Consumer
+HR3.11.38.1,HR3,Hunter River,Scylla serrata,Giant Mud Crab,45.8,13.9,741.8,225.4,-20.6,11,Consumer
+HR3.12.38.1,HR3,Hunter River,Scylla serrata,Giant Mud Crab,48.5,14.5,809.6,241.5,-22,13.7,Consumer
+HR3.15.38.1,HR3,Hunter River,Scylla serrata,Giant Mud Crab,48.7,15.1,838,260.1,-24.3,14.6,Consumer
+HR3.20.38.1,HR3,Hunter River,Scylla serrata,Giant Mud Crab,39.1,11.9,738.5,225.4,-20.7,12.1,Consumer
+HR3.3.38.1,HR3,Hunter River,Scylla serrata,Giant Mud Crab,45.5,13.2,692.1,201,-21,11.4,Consumer
+HR3.3.38.2,HR3,Hunter River,Scylla serrata,Giant Mud Crab,44.9,13.1,732.3,214,-20.8,10,Consumer
+HR3.4.38.1,HR3,Hunter River,Scylla serrata,Giant Mud Crab,45.2,14.8,800.3,262.6,-18.8,11.7,Consumer
+HR3.5.38.1,HR3,Hunter River,Scylla serrata,Giant Mud Crab,45.8,14,750.3,229.7,-21.4,13,Consumer
+HR3.5.38.2,HR3,Hunter River,Scylla serrata,Giant Mud Crab,46.5,14,688.5,206.9,-22.7,12.3,Consumer
+HR3.9.38.1,HR3,Hunter River,Scylla serrata,Giant Mud Crab,45.9,12.5,739,201.1,-23.7,13,Consumer

@@ -1,0 +1,140 @@
+sample,site_code,site_name,common_name,species_name,d13c,d15n
+FB1.37.1,FB1,Fern Bay,FBOM,Fine benthic organic matter,-24.7,2.6
+FB1.37.2,FB1,Fern Bay,FBOM,Fine benthic organic matter,-23.8,-4.6
+FB1.37.3,FB1,Fern Bay,FBOM,Fine benthic organic matter,-24.1,4.9
+FB1.8.1,FB1,Fern Bay,Mangrove,Avicennia marina,-28.4,4.2
+FB1.8.2,FB1,Fern Bay,Mangrove,Avicennia marina,-28.3,4.8
+FB1.8.3,FB1,Fern Bay,Mangrove,Avicennia marina,-28.5,3.8
+FB1.30.1,FB1,Fern Bay,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-29.5,6.6
+FB1.30.2,FB1,Fern Bay,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-29.7,6.5
+FB1.30.3,FB1,Fern Bay,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-30,6.1
+FB2.37.1,FB2,Fern Bay,FBOM,Fine benthic organic matter,-24.6,4.1
+FB2.37.2,FB2,Fern Bay,FBOM,Fine benthic organic matter,-23.2,1.3
+FB2.37.3,FB2,Fern Bay,FBOM,Fine benthic organic matter,-22.9,8.2
+FB2.8.1,FB2,Fern Bay,Mangrove,Avicennia marina,-27.3,6.7
+FB2.8.2,FB2,Fern Bay,Mangrove,Avicennia marina,-28.3,6
+FB2.8.3,FB2,Fern Bay,Mangrove,Avicennia marina,-28.6,8
+FB2.30.1,FB2,Fern Bay,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-18.9,7.9
+FB2.30.2,FB2,Fern Bay,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-28.7,7.4
+FB2.30.3,FB2,Fern Bay,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-27.3,6.8
+FB3.32.1,FB3,Fern Bay,Austral Seablite,Sueda australis,-25.9,3.6
+FB3.32.2,FB3,Fern Bay,Austral Seablite,Sueda australis,-27.1,2.6
+FB3.32.3,FB3,Fern Bay,Austral Seablite,Sueda australis,-25.3,3.2
+FB3.35.1,FB3,Fern Bay,Beaded Samphire,Sarcocornia quinqueflora,-27.7,2.3
+FB3.35.2,FB3,Fern Bay,Beaded Samphire,Sarcocornia quinqueflora,-27.5,2.3
+FB3.35.3,FB3,Fern Bay,Beaded Samphire,Sarcocornia quinqueflora,-27.9,1.5
+FB3.37.1,FB3,Fern Bay,FBOM,Fine benthic organic matter,-22.4,-6
+FB3.37.2,FB3,Fern Bay,FBOM,Fine benthic organic matter,-22.2,5.4
+FB3.37.3,FB3,Fern Bay,FBOM,Fine benthic organic matter,-23.7,2.8
+FB3.8.1,FB3,Fern Bay,Mangrove,Avicennia marina,-29.3,3.9
+FB3.8.2,FB3,Fern Bay,Mangrove,Avicennia marina,-29.4,3.8
+FB3.8.3,FB3,Fern Bay,Mangrove,Avicennia marina,-29.1,4.1
+FB3.30.1,FB3,Fern Bay,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-21.7,7.7
+FB3.30.2,FB3,Fern Bay,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-27.3,7.1
+FB3.30.3,FB3,Fern Bay,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-27.3,7.1
+FB3.34.1,FB3,Fern Bay,Salt Couch,Sporobolus virginicus,-14.7,0.6
+FB3.34.2,FB3,Fern Bay,Salt Couch,Sporobolus virginicus,-14.3,0.4
+FB3.34.3,FB3,Fern Bay,Salt Couch,Sporobolus virginicus,-14.4,0.5
+FB3.21.1,FB3,Fern Bay,Zoo,Zooplankton,-21.8,5
+FB3.21.2,FB3,Fern Bay,Zoo,Zooplankton,-22.9,7
+FB3.21.3,FB3,Fern Bay,Zoo,Zooplankton,-21.5,5.7
+FB3.22.1,FB3,Fern Bay,Zoo,Zooplankton,-22.5,6.2
+FB3.22.2,FB3,Fern Bay,Zoo,Zooplankton,-22.4,7
+FB3.22.3,FB3,Fern Bay,Zoo,Zooplankton,-20.6,5.3
+H2.32.1,H2,Hexham,Austral Seablite,Sueda australis,-29.7,4.7
+H2.32.2,H2,Hexham,Austral Seablite,Sueda australis,-32.5,5.7
+H2.32.3,H2,Hexham,Austral Seablite,Sueda australis,-30.3,7
+H2.35.1,H2,Hexham,Beaded Samphire,Sarcocornia quinqueflora,-26.6,7.1
+H2.35.2,H2,Hexham,Beaded Samphire,Sarcocornia quinqueflora,-26.2,6.5
+H2.35.3,H2,Hexham,Beaded Samphire,Sarcocornia quinqueflora,-27.2,6.5
+H2.37.1,H2,Hexham,FBOM,Fine benthic organic matter,-23.4,3.4
+H2.37.2,H2,Hexham,FBOM,Fine benthic organic matter,-23.5,-6
+H2.8.1,H2,Hexham,Mangrove,Avicennia marina,-26.5,6.9
+H2.8.2,H2,Hexham,Mangrove,Avicennia marina,-26.7,7.1
+H2.8.3,H2,Hexham,Mangrove,Avicennia marina,-28.7,6.2
+H2.30.1,H2,Hexham,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-29.5,9
+H2.30.2,H2,Hexham,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-29.1,8.7
+H2.30.3,H2,Hexham,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-27.8,8.4
+H2.34.1,H2,Hexham,Salt Couch,Sporobolus virginicus,-15.5,6.1
+H2.34.2,H2,Hexham,Salt Couch,Sporobolus virginicus,-15,5.4
+H2.34.3,H2,Hexham,Salt Couch,Sporobolus virginicus,-15.4,8.6
+H3.32.1,H3,Hexham,Austral Seablite,Sueda australis,-29.8,12.1
+H3.32.2,H3,Hexham,Austral Seablite,Sueda australis,-30,12.5
+H3.32.3,H3,Hexham,Austral Seablite,Sueda australis,-30,12.5
+H3.35.1,H3,Hexham,Beaded Samphire,Sarcocornia quinqueflora,-28.9,8.1
+H3.35.2,H3,Hexham,Beaded Samphire,Sarcocornia quinqueflora,-29.5,7.2
+H3.35.3,H3,Hexham,Beaded Samphire,Sarcocornia quinqueflora,-29.4,8.6
+H3.37.1,H3,Hexham,FBOM,Fine benthic organic matter,-25.7,2
+H3.37.2,H3,Hexham,FBOM,Fine benthic organic matter,-24.9,4.1
+H3.37.3,H3,Hexham,FBOM,Fine benthic organic matter,-25.5,3.5
+H3.37.3*,H3,Hexham,FBOM,Fine benthic organic matter,-23.7,1.1
+H3.8.1,H3,Hexham,Mangrove,Avicennia marina,-27.6,4.5
+H3.8.2,H3,Hexham,Mangrove,Avicennia marina,-28.9,6.6
+H3.8.2,H3,Hexham,Mangrove,Avicennia marina,-27.4,5.1
+H3.21.1,H3,Hexham,Zoo,Zooplankton,-24.1,4.8
+H3.21.2,H3,Hexham,Zoo,Zooplankton,-24.6,6.1
+H3.21.3,H3,Hexham,Zoo,Zooplankton,-24.1,5.1
+H3.22.1,H3,Hexham,Zoo,Zooplankton,-24.2,5.5
+H3.22.3,H3,Hexham,Zoo,Zooplankton,-26.4,4.7
+H4.33.1,H4,Hexham,Cane Grass,Nasella hyalina,-28.2,4.8
+H4.33.2,H4,Hexham,Cane Grass,Nasella hyalina,-26.9,7.1
+H4.33.3,H4,Hexham,Cane Grass,Nasella hyalina,-27.8,5.2
+H4.8.1,H4,Hexham,Mangrove,Avicennia marina,-29.3,5.3
+H4.8.2,H4,Hexham,Mangrove,Avicennia marina,-28.7,5
+H4.8.3,H4,Hexham,Mangrove,Avicennia marina,-29.3,4.1
+H4.30.1,H4,Hexham,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-29.4,6.8
+H4.30.2,H4,Hexham,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-29,6.7
+H4.30.3,H4,Hexham,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-30.9,8.3
+H4.34.1,H4,Hexham,Salt Couch,Sporobolus virginicus,-15,3.6
+H4.34.2,H4,Hexham,Salt Couch,Sporobolus virginicus,-14.9,3.9
+H4.34.3,H4,Hexham,Salt Couch,Sporobolus virginicus,-15,3.3
+T1.32.1,T1,Tomago,Austral Seablite,Sueda australis,-27.6,7.7
+T1.32.2,T1,Tomago,Austral Seablite,Sueda australis,-27.4,8.5
+T1.32.3,T1,Tomago,Austral Seablite,Sueda australis,-27.1,6.2
+T1.35.1,T1,Tomago,Beaded Samphire,Sarcocornia quinqueflora,-31,6
+T1.35.2,T1,Tomago,Beaded Samphire,Sarcocornia quinqueflora,-29.3,7.4
+T1.35.3,T1,Tomago,Beaded Samphire,Sarcocornia quinqueflora,-29.2,9.4
+T1.36.1,T1,Tomago,Bermuda Grass,Cynodon dactylon,-14.3,2.4
+T1.36.2,T1,Tomago,Bermuda Grass,Cynodon dactylon,-14.6,3.8
+T1.36.3,T1,Tomago,Bermuda Grass,Cynodon dactylon,-14.5,2.3
+T1.33.1,T1,Tomago,Cane Grass,Nasella hyalina,-27.8,3.9
+T1.33.2,T1,Tomago,Cane Grass,Nasella hyalina,-25.7,4.3
+T1.33.3,T1,Tomago,Cane Grass,Nasella hyalina,-25.1,4.4
+T1.37.1,T1,Tomago,FBOM,Fine benthic organic matter,-23.3,3.7
+T1.37.2,T1,Tomago,FBOM,Fine benthic organic matter,-23.5,2
+T1.37.3,T1,Tomago,FBOM,Fine benthic organic matter,-23.5,3.1
+T2.8.1,T2,Tomago,Mangrove,Avicennia marina,-28.6,2.2
+T2.8.2,T2,Tomago,Mangrove,Avicennia marina,-28.9,2.5
+T2.8.3,T2,Tomago,Mangrove,Avicennia marina,-28.3,4.3
+T2.30.1,T2,Tomago,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-30,6.5
+T2.30.2,T2,Tomago,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-30,8.4
+T2.30.3,T2,Tomago,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-30.5,7.3
+T2.34.1,T2,Tomago,Salt Couch,Sporobolus virginicus,-15.2,2.2
+T2.34.2,T2,Tomago,Salt Couch,Sporobolus virginicus,-15.2,1.7
+T2.34.3,T2,Tomago,Salt Couch,Sporobolus virginicus,-15.3,2.3
+T3.32.1,T3,Tomago,Austral Seablite,Sueda australis,-27.9,4.7
+T3.32.2,T3,Tomago,Austral Seablite,Sueda australis,-27.6,5.1
+T3.32.3,T3,Tomago,Austral Seablite,Sueda australis,-28.5,5.8
+T3.37.1,T3,Tomago,FBOM,Fine benthic organic matter,-25.2,2.5
+T3.37.2,T3,Tomago,FBOM,Fine benthic organic matter,-26.2,5.6
+T3.37.3,T3,Tomago,FBOM,Fine benthic organic matter,-26.3,2.1
+T3.8.1,T3,Tomago,Mangrove,Avicennia marina,-30.6,4.6
+T3.8.2,T3,Tomago,Mangrove,Avicennia marina,-31.7,4.5
+T3.8.3,T3,Tomago,Mangrove,Avicennia marina,-31,5.1
+T3.34.1,T3,Tomago,Salt Couch,Sporobolus virginicus,-14.7,3.3
+T3.34.2,T3,Tomago,Salt Couch,Sporobolus virginicus,-14.7,3.3
+T3.34.3,T3,Tomago,Salt Couch,Sporobolus virginicus,-14.6,2.6
+T4.37.1,T4,Tomago,FBOM,Fine benthic organic matter,-23.7,-0.2
+T4.37.2,T4,Tomago,FBOM,Fine benthic organic matter,-26.2,1.8
+T4.8.1,T4,Tomago,Mangrove,Avicennia marina,-29.6,2.6
+T4.8.2,T4,Tomago,Mangrove,Avicennia marina,-30.8,3.8
+T4.8.3,T4,Tomago,Mangrove,Avicennia marina,-32.2,3.8
+T4.30.1,T4,Tomago,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-29.7,5.4
+T4.30.2,T4,Tomago,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-28.7,5.4
+T4.30.3,T4,Tomago,Mangrove Epiphyte,Mangrove pneumatophore epiphyte,-28.2,5.1
+T4.21.1,T4,Tomago,Zoo,Zooplankton,-27.2,3.5
+T4.21.2,T4,Tomago,Zoo,Zooplankton,-27.7,4.3
+T4.21.3,T4,Tomago,Zoo,Zooplankton,-27.3,4.4
+T4.22.1,T4,Tomago,Zoo,Zooplankton,-27.6,3.4
+T4.22.2,T4,Tomago,Zoo,Zooplankton,-27.4,3.8
+T4.22.3,T4,Tomago,Zoo,Zooplankton,-27.2,3.8

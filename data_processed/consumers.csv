@@ -1,0 +1,168 @@
+sample,site_code,site_name,common_name,species_name,d13c,d15n
+TML.6.1,FB,Fern Bay,School Prawn,Metapenaeus macleayi,-17.23,10.71
+TML.6.4,FB,Fern Bay,School Prawn,Metapenaeus macleayi,-17.39,10.63
+TML.6.3,FB,Fern Bay,School Prawn,Metapenaeus macleayi,-18.39,11.76
+TML.6.2,FB,Fern Bay,School Prawn,Metapenaeus macleayi,-17.88,9.96
+TML.6.6,FB,Fern Bay,School Prawn,Metapenaeus macleayi,-18.56,10.52
+TMS.6.4,FB,Fern Bay,School Prawn,Metapenaeus macleayi,-18.83,11.08
+TMS.6.5,FB,Fern Bay,School Prawn,Metapenaeus macleayi,-18.11,10.74
+TMS.6.1,FB,Fern Bay,School Prawn,Metapenaeus macleayi,-15,10.31
+TMS.6.2,FB,Fern Bay,School Prawn,Metapenaeus macleayi,-19.04,11.26
+TMS.6.6,FB,Fern Bay,School Prawn,Metapenaeus macleayi,-18.79,11.11
+TMS.6.3,FB,Fern Bay,School Prawn,Metapenaeus macleayi,-18.8,10.57
+FB1.37.1,FB1,Fern Bay,FBOM,NA,-24.7,2.6
+FB1.37.2,FB1,Fern Bay,FBOM,NA,-23.8,-4.6
+FB1.37.3,FB1,Fern Bay,FBOM,NA,-24.1,4.9
+FB1.8.1,FB1,Fern Bay,Mangrove + others,NA,-28.4,4.2
+FB1.8.2,FB1,Fern Bay,Mangrove + others,NA,-28.3,4.8
+FB1.8.3,FB1,Fern Bay,Mangrove + others,NA,-28.5,3.8
+FB1.30.1,FB1,Fern Bay,Mangrove + others,NA,-29.5,6.6
+FB1.30.2,FB1,Fern Bay,Mangrove + others,NA,-29.7,6.5
+FB1.30.3,FB1,Fern Bay,Mangrove + others,NA,-30,6.1
+FB2.24.1.M,FB2,Fern Bay,Yellowfin Bream,Acanthopagrus australis,-17.4,13.7
+FB2.24.2.M,FB2,Fern Bay,Yellowfin Bream,Acanthopagrus australis,-19.2,15.1
+FB2.24.3.M,FB2,Fern Bay,Yellowfin Bream,Acanthopagrus australis,-18.7,13.3
+FB2.24.4.M,FB2,Fern Bay,Yellowfin Bream,Acanthopagrus australis,-24.5,8.6
+FB2.24.5.M,FB2,Fern Bay,Yellowfin Bream,Acanthopagrus australis,-24.4,13
+FB2.24.6.M,FB2,Fern Bay,Yellowfin Bream,Acanthopagrus australis,-18.7,10.1
+FB2.24.7.M,FB2,Fern Bay,Yellowfin Bream,Acanthopagrus australis,-18.7,10
+FB2.24.7.M,FB2,Fern Bay,Yellowfin Bream,Acanthopagrus australis,-18.6,10.8
+FB2.24.8.M,FB2,Fern Bay,Yellowfin Bream,Acanthopagrus australis,-18.3,10.6
+FB2.24.9.M,FB2,Fern Bay,Yellowfin Bream,Acanthopagrus australis,-19.7,10.4
+FB2.26.2.M,FB2,Fern Bay,Dusky Flathead,Platycephalus fuscus,-15.3,15
+FB2.26.3.M,FB2,Fern Bay,Dusky Flathead,Platycephalus fuscus,-13.9,12.1
+FB2.26.4.M,FB2,Fern Bay,Dusky Flathead,Platycephalus fuscus,-14.3,12.7
+FB2.26.5.M,FB2,Fern Bay,Dusky Flathead,Platycephalus fuscus,-14.9,12.2
+FB2.26.6.M,FB2,Fern Bay,Dusky Flathead,Platycephalus fuscus,-20.1,16.5
+FB2.37.1,FB2,Fern Bay,FBOM,NA,-24.6,4.1
+FB2.37.2,FB2,Fern Bay,FBOM,NA,-23.2,1.3
+FB2.37.3,FB2,Fern Bay,FBOM,NA,-22.9,8.2
+FB2.42.1.M,FB2,Fern Bay,Luderick,Girella tricuspidata,-23.6,9
+FB2.42.2.M,FB2,Fern Bay,Luderick,Girella tricuspidata,-16.7,12.1
+FB2.42.3.M,FB2,Fern Bay,Luderick,Girella tricuspidata,-22.8,13.6
+FB2.42.4.M,FB2,Fern Bay,Luderick,Girella tricuspidata,-21.2,13.7
+FB2.42.5.M,FB2,Fern Bay,Luderick,Girella tricuspidata,-21.3,12.9
+FB2.42.6.M,FB2,Fern Bay,Luderick,Girella tricuspidata,-21.4,9.2
+FB2.8.1,FB2,Fern Bay,Mangrove + others,NA,-27.3,6.7
+FB2.8.2,FB2,Fern Bay,Mangrove + others,NA,-28.3,6
+FB2.8.3,FB2,Fern Bay,Mangrove + others,NA,-28.6,8
+FB2.30.1,FB2,Fern Bay,Mangrove + others,NA,-18.9,7.9
+FB2.30.2,FB2,Fern Bay,Mangrove + others,NA,-28.7,7.4
+FB2.30.3,FB2,Fern Bay,Mangrove + others,NA,-27.3,6.8
+FB2.43.1.M,FB2,Fern Bay,Sea Mullet,Mugil cephalus,-22.3,15.4
+FB2.43.10.M,FB2,Fern Bay,Sea Mullet,Mugil cephalus,-23,15.5
+FB2.43.2.M,FB2,Fern Bay,Sea Mullet,Mugil cephalus,-20.9,13.8
+FB2.43.3.M,FB2,Fern Bay,Sea Mullet,Mugil cephalus,-18,13.6
+FB2.43.4.M,FB2,Fern Bay,Sea Mullet,Mugil cephalus,-16.9,12.4
+FB2.43.5.M,FB2,Fern Bay,Sea Mullet,Mugil cephalus,-17,9.2
+FB2.43.6.M,FB2,Fern Bay,Sea Mullet,Mugil cephalus,-15.7,10.3
+FB2.43.7.M,FB2,Fern Bay,Sea Mullet,Mugil cephalus,-16.8,9.3
+FB2.43.8.M,FB2,Fern Bay,Sea Mullet,Mugil cephalus,-15.7,11.6
+FB2.43.9.M,FB2,Fern Bay,Sea Mullet,Mugil cephalus,-15.6,9.2
+FB3.32.1,FB3,Fern Bay,Mangrove + others,NA,-25.9,3.6
+FB3.32.2,FB3,Fern Bay,Mangrove + others,NA,-27.1,2.6
+FB3.32.3,FB3,Fern Bay,Mangrove + others,NA,-25.3,3.2
+FB3.35.1,FB3,Fern Bay,Mangrove + others,NA,-27.7,2.3
+FB3.35.2,FB3,Fern Bay,Mangrove + others,NA,-27.5,2.3
+FB3.35.3,FB3,Fern Bay,Mangrove + others,NA,-27.9,1.5
+FB3.37.1,FB3,Fern Bay,FBOM,NA,-22.4,-6
+FB3.37.2,FB3,Fern Bay,FBOM,NA,-22.2,5.4
+FB3.37.3,FB3,Fern Bay,FBOM,NA,-23.7,2.8
+FB3.8.1,FB3,Fern Bay,Mangrove + others,NA,-29.3,3.9
+FB3.8.2,FB3,Fern Bay,Mangrove + others,NA,-29.4,3.8
+FB3.8.3,FB3,Fern Bay,Mangrove + others,NA,-29.1,4.1
+FB3.30.1,FB3,Fern Bay,Mangrove + others,NA,-21.7,7.7
+FB3.30.2,FB3,Fern Bay,Mangrove + others,NA,-27.3,7.1
+FB3.30.3,FB3,Fern Bay,Mangrove + others,NA,-27.3,7.1
+FB3.34.1,FB3,Fern Bay,S. virginicus,NA,-14.7,0.6
+FB3.34.2,FB3,Fern Bay,S. virginicus,NA,-14.3,0.4
+FB3.34.3,FB3,Fern Bay,S. virginicus,NA,-14.4,0.5
+FB3.21.1,FB3,Fern Bay,Zooplankton,NA,-21.8,5
+FB3.21.2,FB3,Fern Bay,Zooplankton,NA,-22.9,7
+FB3.21.3,FB3,Fern Bay,Zooplankton,NA,-21.5,5.7
+FB3.22.1,FB3,Fern Bay,Zooplankton,NA,-22.5,6.2
+FB3.22.2,FB3,Fern Bay,Zooplankton,NA,-22.4,7
+FB3.22.3,FB3,Fern Bay,Zooplankton,NA,-20.6,5.3
+H.24.1.M,H,Hexham,Yellowfin Bream,Acanthopagrus australis,-17.6,13.1
+H.24.2.M,H,Hexham,Yellowfin Bream,Acanthopagrus australis,-18.4,13.4
+H.24.3.M,H,Hexham,Yellowfin Bream,Acanthopagrus australis,-18.6,14.1
+H.24.4.M,H,Hexham,Yellowfin Bream,Acanthopagrus australis,-22.6,12.5
+H.24.5.M,H,Hexham,Yellowfin Bream,Acanthopagrus australis,-17.3,13.2
+H.24.6.M,H,Hexham,Yellowfin Bream,Acanthopagrus australis,-17.5,14
+H.64.1,H,Hexham,Blue Swimmer Crab,Portunus armatus,-17.2,12
+H.64.2,H,Hexham,Blue Swimmer Crab,Portunus armatus,-17.7,10.7
+H.64.3,H,Hexham,Blue Swimmer Crab,Portunus armatus,-17.3,12.8
+H.26.1.M,H,Hexham,Dusky Flathead,Platycephalus fuscus,-16.3,13.4
+H.26.2.M,H,Hexham,Dusky Flathead,Platycephalus fuscus,-18.9,14.1
+H.26.3.M,H,Hexham,Dusky Flathead,Platycephalus fuscus,-17.6,13.7
+H.26.4.M,H,Hexham,Dusky Flathead,Platycephalus fuscus,-19.1,14.3
+H.26.5.M,H,Hexham,Dusky Flathead,Platycephalus fuscus,-17.8,14.1
+H.68.1.M,H,Hexham,Mulloway,Argyrosomas japonicus,-18.4,13.4
+H.68.10.M,H,Hexham,Mulloway,Argyrosomas japonicus,-17.8,13.8
+H.68.11.M,H,Hexham,Mulloway,Argyrosomas japonicus,-17.7,13.7
+H.68.12.M,H,Hexham,Mulloway,Argyrosomas japonicus,-17.7,13.4
+H.68.2.M,H,Hexham,Mulloway,Argyrosomas japonicus,-18.3,13.2
+H.68.3.M,H,Hexham,Mulloway,Argyrosomas japonicus,-17.9,13.2
+H.68.4.M,H,Hexham,Mulloway,Argyrosomas japonicus,-17.6,13.5
+H.68.5.M,H,Hexham,Mulloway,Argyrosomas japonicus,-18.1,13
+H.68.6.M,H,Hexham,Mulloway,Argyrosomas japonicus,-18.6,13.5
+H.68.7.M,H,Hexham,Mulloway,Argyrosomas japonicus,-17.8,13.5
+H.68.8.M,H,Hexham,Mulloway,Argyrosomas japonicus,-17.9,13.3
+H.68.9.M,H,Hexham,Mulloway,Argyrosomas japonicus,-18.1,13.5
+HR.2.1.38.1,HR,Hunter River,Giant Mud Crab,Scylla serrata,-18.8,12.5
+HR.2.1.38.2,HR,Hunter River,Giant Mud Crab,Scylla serrata,-20,10.6
+HR1.1.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-18,11.6
+HR1.10.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-18.2,12.5
+HR1.11.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-19.5,11.5
+HR1.11.38.2,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-19.3,11.7
+HR1.12.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-19.6,11.4
+HR1.12.38.2,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-18.5,12
+HR1.13.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-19.6,11.6
+HR1.2.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-17.8,11.3
+HR1.2.38.2,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-18,11.6
+HR1.2.38.3,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-17.3,10.6
+HR1.3.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-19.8,12.4
+HR1.3.38.2,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-17.9,12.3
+HR1.4.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-16.2,10.7
+HR1.4.38.2,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-17.7,12.5
+HR1.4.38.3,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-20.3,12.9
+HR1.4.38.4,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-17.6,11.6
+HR1.5.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-20.9,9.9
+HR1.5.38.2,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-20.3,10.7
+HR1.6.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-20.1,11.6
+HR1.7.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-20,11.2
+HR1.7.38.2,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-20.9,12.1
+HR1.8.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-18.5,11
+HR1.9.38.1,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-19.6,11.2
+HR1.9.38.2,HR1,Hunter River,Giant Mud Crab,Scylla serrata,-19.2,11.4
+HR2.1.38.1,HR2,Hunter River,Giant Mud Crab,Scylla serrata,-18.2,10.7
+HR2.2.38.1,HR2,Hunter River,Giant Mud Crab,Scylla serrata,-16.1,11
+HR2.3.38.1,HR2,Hunter River,Giant Mud Crab,Scylla serrata,-17.6,10.8
+HR2.4.38.1,HR2,Hunter River,Giant Mud Crab,Scylla serrata,-17.9,11.1
+HR2.4.38.2,HR2,Hunter River,Giant Mud Crab,Scylla serrata,-15.6,10.3
+HR2.4.38.3,HR2,Hunter River,Giant Mud Crab,Scylla serrata,-18.4,11
+HR2.6.38.1,HR2,Hunter River,Giant Mud Crab,Scylla serrata,-19,11.5
+HR2.6.38.2,HR2,Hunter River,Giant Mud Crab,Scylla serrata,-18.6,11
+HR2.7.38.1,HR2,Hunter River,Giant Mud Crab,Scylla serrata,-18.9,10
+HR2.7.38.1,HR2,Hunter River,Giant Mud Crab,Scylla serrata,-17.5,10.9
+HR2.8.38.1,HR2,Hunter River,Giant Mud Crab,Scylla serrata,-20.3,11.9
+HR3.24.1.M,HR3,Hunter River,Yellowfin Bream,Acanthopagrus australis,-20.8,13.9
+HR3.24.10.M,HR3,Hunter River,Yellowfin Bream,Acanthopagrus australis,-21.9,13.9
+HR3.24.2.M,HR3,Hunter River,Yellowfin Bream,Acanthopagrus australis,-20,10.9
+HR3.24.3.M,HR3,Hunter River,Yellowfin Bream,Acanthopagrus australis,-22.4,15.5
+HR3.24.4.M,HR3,Hunter River,Yellowfin Bream,Acanthopagrus australis,-21.2,14.5
+HR3.24.5.M,HR3,Hunter River,Yellowfin Bream,Acanthopagrus australis,-21,14.4
+HR3.24.6.M,HR3,Hunter River,Yellowfin Bream,Acanthopagrus australis,-22.1,14.7
+HR3.24.7.M,HR3,Hunter River,Yellowfin Bream,Acanthopagrus australis,-21.4,14.6
+HR3.24.8.M,HR3,Hunter River,Yellowfin Bream,Acanthopagrus australis,-24.4,14.8
+HR3.24.9.M,HR3,Hunter River,Yellowfin Bream,Acanthopagrus australis,-21.1,13
+HR3.11.38.1,HR3,Hunter River,Giant Mud Crab,Scylla serrata,-20.6,11
+HR3.12.38.1,HR3,Hunter River,Giant Mud Crab,Scylla serrata,-22,13.7
+HR3.15.38.1,HR3,Hunter River,Giant Mud Crab,Scylla serrata,-24.3,14.6
+HR3.20.38.1,HR3,Hunter River,Giant Mud Crab,Scylla serrata,-20.7,12.1
+HR3.3.38.1,HR3,Hunter River,Giant Mud Crab,Scylla serrata,-21,11.4
+HR3.3.38.2,HR3,Hunter River,Giant Mud Crab,Scylla serrata,-20.8,10
+HR3.4.38.1,HR3,Hunter River,Giant Mud Crab,Scylla serrata,-18.8,11.7
+HR3.5.38.1,HR3,Hunter River,Giant Mud Crab,Scylla serrata,-21.4,13
+HR3.5.38.2,HR3,Hunter River,Giant Mud Crab,Scylla serrata,-22.7,12.3
+HR3.9.38.1,HR3,Hunter River,Giant Mud Crab,Scylla serrata,-23.7,13

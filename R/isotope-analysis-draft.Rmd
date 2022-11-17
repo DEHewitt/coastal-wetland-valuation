@@ -1,0 +1,64 @@
+---
+title: "MixSIAR"
+author: "Daniel Hewitt"
+date: "15/11/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, load packages, include = FALSE}
+library(tidyverse)
+library(MixSIAR)
+```
+
+
+```{r, loading data}
+sources <- read_csv("data_processed/sources.csv")
+consumers <- read_csv("data_processed/consumers.csv")
+```
+
+We don't have any diet-tissue discrimination factors (DTDF) for these species, so we'll have to use values from the literature... (see Raoult et al., 2018 for these)
+
+```{r, generate DTDF df}
+discrimination <- tibble()
+```
+
+Before we begin analysis we have to group our source data to ensure we don't exceed n+1 rule for sources (where n = number of tracers)
+
+Sources should be grouped based on similarity in their isotope values and the specific test used to determine the grouping is up to you, some commonly used examples are generalised linear models (GLM), Analysis of Variance (ANOVA). k-means clustering, etc.
+
+In our case, we wish to group sources on the basis of multiple isotope tracers (d13c and d15n), so we opted for k-means clustering (since post-hoc comparisons for multivariate linear models are not widely implemented in R)
+
+k-means
+```{r, group sources}
+library(factoextra)
+
+fviz_nbclust(sources[, 2:3], kmeans, method = "wss") +
+geom_vline(xintercept = 3, linetype = 2)
+
+clusters <- kmeans(x = sources[, 2:3], # isotope values
+                   centers = 3, # from plot above
+                   iter.max = 10, 
+                   nstart = 10)
+
+clusters
+
+sources <- sources %>% bind_cols(cluster = clusters$cluster)
+
+ggplot(data = sources) + 
+  geom_histogram(aes(x = source, 
+                     fill = cluster), 
+                 stat = "count", 
+                 position = "dodge") + 
+  scale_fill_viridis_d()
+
+cluster_table <- table(sources$source, sources$cluster) %>% as.data.frame() %>% rename(source = Var1) %>% pivot_wider(names_from = Var2, values_from = Freq)
+
+x <- cluster_table %>%
+  mutate(cluster = names(.[2:4])[max.col(.[2:4])])
+```
+
+Grouping can also be post-hoc in MixSIAR

@@ -45,7 +45,7 @@ where *GVP<sub>s, p</sub>* is the gross value of production (AUD y<sup>-1</sup>)
 Estimation of economic value is achieved by determining the gross value of production (GVP), based on market value at first-point-of-sale (FPS). GVP is then converted to total economic output (TOP) via an economic multiplier [*m*; derived from data presented in @RN1024]. The multiplier *m* is expressed using a normal distribution (i.e., $m \sim N[\mu, \sigma]$), derived from the statewide-GVP for New South Wales (*P<sub>GV</sub>*), and the minimum (*O<sub>min</sub>*) and maximum (*O<sub>max</sub>*) estimate of total economic output from commercial fishing (including GVP, and the value of retail processing etc.) reported in @RN1024, using the two following equations:
 
 \begin{equation}
-\sigma = \frac{\frac{O_{max}-O_{min}}{P_{GV}}}{6}
+\sigma = \frac{O_{max}-O_{min}}{6\cdot P_{GV}}
 
 (\#eq:sigma)
 \end{equation}
